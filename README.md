@@ -30,7 +30,7 @@ The working is as follows:
 
 ### Other Updates:
 
-- Improve user interface and user experience
+- Improve user interface and user experience and frontend development using React
 - Add more advanced voting options (e.g. weighted voting, ranked-choice voting)
 - Integrate with other blockchain platforms (e.g. Ethereum, Binance Smart Chain)
 - Implement more advanced security measures (e.g. multi-sig wallets, reentrancy protection)
